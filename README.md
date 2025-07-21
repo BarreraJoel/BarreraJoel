@@ -1,7 +1,7 @@
 
 # ¡Hola! 👋 Soy Joel Barrera
 
-Soy desarrollador web apasionado por el backend y la experiencia de usuario. 
+Soy desarrollador Backend especializado en el lenguaje PHP en conjunto con el framework Laravel. Me enfoco en crear aplicaciones robustas y seguras, y busco contribuir a proyectos donde la calidad del código y la escalabilidad sean prioridad.
 
 ## 🛠️ Tecnologías y herramientas
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -18,12 +18,12 @@ Soy desarrollador web apasionado por el backend y la experiencia de usuario.
 ![Laragon](https://img.shields.io/badge/-Laragon-1F487E?style=flat-square&logo=laragon&logoColor=white) 
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 
-
-
+### 🧩 Proyectos destacados
+- [🔗 App de ecommerce](https://github.com/BarreraJoel/api-ecom) – Api enfocada en ecommerce, incluye autenticación, flujo de compras e integración con Mercado Pago
 
 ## 📈 GitHub Stats
 ![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarreraJoel&show_icons=true&theme=radical)
 
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/joelbarrera)
-- Email: barjoel.m@email.com
+- Email: barjoel.m@gmail.com
