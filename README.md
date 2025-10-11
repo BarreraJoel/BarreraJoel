@@ -25,5 +25,5 @@ Soy desarrollador Backend especializado en el lenguaje PHP en conjunto con el fr
 ![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarreraJoel&show_icons=true&theme=radical)
 
 ## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/joelbarrera)
+- [LinkedIn](https://www.linkedin.com/in/joel-manuel-barrera)
 - Email: barjoel.m@gmail.com
