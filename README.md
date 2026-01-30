@@ -23,8 +23,8 @@ Soy Desarrollador Backend con 1 año de experiencia práctica en Node.js + Expre
 
 ### 🧩 Proyectos destacados
 - [🔗 App de ecommerce](https://github.com/BarreraJoel/api-ecom) – Api enfocada en ecommerce, incluye autenticación, flujo de compras e integración con Mercado Pago
-- [🔗 Portal Web de Coordinación de Citas y Teleasistencia ](https://github.com/G20-NoCountry/g20-HealthTech/)
-- [🔗 Startup CRM](https://github.com/G33-NoCountry/startup-crm)
+- [🔗 Portal Web de Coordinación de Citas y Teleasistencia ](https://github.com/G20-NoCountry/g20-HealthTech/) - Sistema de 𝗰𝗲𝗻𝘁𝗿𝗮𝗹𝗶𝘇𝗮ción de 𝗮𝗴𝗲𝗻𝗱𝗮s 𝗺𝗲́𝗱𝗶𝗰𝗮s para 𝗺𝗲𝗷𝗼𝗿𝗮𝗿 𝗹𝗮 𝘁𝗿𝗮𝘇𝗮𝗯𝗶𝗹𝗶𝗱𝗮𝗱 𝗱𝗲 𝗹𝗼𝘀 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗮𝗹𝗲𝘀 𝗰𝗹𝗶́𝗻𝗶𝗰𝗼𝘀 𝘆 𝗳𝗮𝗰𝗶𝗹𝗶𝘁𝗮𝗿 𝗲𝗹 𝗮𝗰𝗰𝗲𝘀𝗼 𝗿𝗲𝗺𝗼𝘁𝗼 𝗮 𝗹𝗮 𝗮𝘁𝗲𝗻𝗰𝗶𝗼́𝗻, aportando una solución escalable y segura.
+- [🔗 Startup CRM](https://github.com/G33-NoCountry/startup-crm) - 𝗖𝗥𝗠 𝗼𝗿𝗶𝗲𝗻𝘁𝗮𝗱𝗼 𝗮 𝘀𝘁𝗮𝗿𝘁𝘂𝗽𝘀, enfocado en la gestión de contactos y el seguimiento de leads
 
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/joel-manuel-barrera)
