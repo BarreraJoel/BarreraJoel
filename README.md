@@ -25,9 +25,6 @@ Soy Desarrollador Backend con 1 año de experiencia práctica en Node.js + Expre
 - [🔗 App de ecommerce](https://github.com/BarreraJoel/api-ecom) – Api enfocada en ecommerce, incluye autenticación, flujo de compras e integración con Mercado Pago
 - [🔗 Portal Web de Coordinación de Citas y Teleasistencia ](https://github.com/G20-NoCountry/g20-HealthTech/)
 
-## 📈 GitHub Stats
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarreraJoel&show_icons=true&theme=radical)
-
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/joel-manuel-barrera)
 - Email: barjoel.m@gmail.com
