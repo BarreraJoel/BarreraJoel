@@ -1,7 +1,7 @@
 
 # ¡Hola! 👋 Soy Joel Barrera
 
-Soy Desarrollador Backend con 1 año de experiencia práctica en Node.js + Express. Me enfoco en crear aplicaciones robustas, seguras y eficientes. Busco formar parte de proyectos donde se prioricen la calidad del código, las buenas prácticas y el crecimiento técnico continuo.
+Soy Desarrollador Backend en Node.js + Express. Me enfoco en crear aplicaciones robustas, seguras y eficientes. Busco formar parte de proyectos donde se prioricen la calidad del código, las buenas prácticas y el crecimiento técnico continuo.
 
 ## 🛠️ Tecnologías y herramientas
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
